@@ -11,6 +11,11 @@ First day out of 100. I have been busy all day, doing errands in the morning, an
 I wrote the shortest working version of the Bob project that I could. It is no masterpiece, but I have started, and that is really half the battle (finishing is the other half, I guess)
 Either way, here we go. 1 down, 99 to come
 
+Monday March 26th:
+
+So many interesting things to do, so hard to choose what to do. Struggling to not do too many things a little bit, but finding a focus and sticking with it. Today I did a little bit of the command line tutorial, but it was focused on Linux environments, and I didn't feel like setting up a virtual machine, so I abandoned it. I solved the leap year problem from exercism.io and got to practice working with try and except - sidenote: I usually like the readability and "Englishness" of Python, but I do feel like the try, catch throw semantics of C++ seems a little more "natural" to me, although the struggle of having to catch the errors, seemed to be simpler in Python. I started the morning out with a couple video lessons from the courses machine learning course, and also finished my evening that way. 
+Also, language sidenote: why do we say zero pointS, one point, two points. How come zero items have a plural ending? 
+
 Check this out:
 1) Get familiar with the command line (https://www.learnenough.com/command-line-tutorial)
 
