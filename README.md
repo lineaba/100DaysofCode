@@ -16,6 +16,9 @@ Monday March 26th:
 So many interesting things to do, so hard to choose what to do. Struggling to not do too many things a little bit, but finding a focus and sticking with it. Today I did a little bit of the command line tutorial, but it was focused on Linux environments, and I didn't feel like setting up a virtual machine, so I abandoned it. I solved the leap year problem from exercism.io and got to practice working with try and except - sidenote: I usually like the readability and "Englishness" of Python, but I do feel like the try, catch throw semantics of C++ seems a little more "natural" to me, although the struggle of having to catch the errors, seemed to be simpler in Python. I started the morning out with a couple video lessons from the courses machine learning course, and also finished my evening that way. 
 Also, language sidenote: why do we say zero pointS, one point, two points. How come zero items have a plural ending? 
 
+Tuesday, March 27th:
+Squeezed in a little bit of code at the end of a long day at warner bros studio, Hollywood and BBQ'ING with parents and Stuart. Worked on the robot_name exercise from exercism.io. Didn't go as fast at smooth as the others, but I'm chalking it up to being super tired. However, maybe I should do some work on learning a bit more pythonian Python, I have a sense that I might be a little to "brute force" dependent at this point. 
+
 Check this out:
 1) Get familiar with the command line (https://www.learnenough.com/command-line-tutorial)
 
