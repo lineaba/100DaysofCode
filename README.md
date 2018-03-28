@@ -17,6 +17,7 @@ So many interesting things to do, so hard to choose what to do. Struggling to no
 Also, language sidenote: why do we say zero pointS, one point, two points. How come zero items have a plural ending? 
 
 Tuesday, March 27th:
+
 Squeezed in a little bit of code at the end of a long day at warner bros studio, Hollywood and BBQ'ING with parents and Stuart. Worked on the robot_name exercise from exercism.io. Didn't go as fast at smooth as the others, but I'm chalking it up to being super tired. However, maybe I should do some work on learning a bit more pythonian Python, I have a sense that I might be a little to "brute force" dependent at this point. 
 
 Check this out:
