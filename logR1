@@ -22,3 +22,12 @@ Also decided to starts a questions file in this repo, with more general python q
 I include an example of where the question arose for me in actual code, and mark it with the #$$$[texthere]$$$# in code, so I can refer back to it later.
 Reflection: I was giving myself a 30-min timeframe today, and was planning to do some work in preparation for my bachelors tonight, and I was debating whether I should do one or the other(the other being coding) tonight
 Ended up deciding to start with 30 mins. of code, and even set a timer, but when first I got started it was very hard to stop again when the timer rang. I will have to keep this in mine when planning my day (and find a balance, cause I am sure the same thing could've happended the other way around,where I got really into bachelor's research and didn't get around to coding before it became to late.
+
+DAY 3 - Wednesday april 11th
+Check in:  working in my time on morning commute and before class. Not ideal, but better than not putting in time this morning.
+Will work on first draft of name generator to fit the word patterns
+Check-out: Did not get a full 30 mins in, but a little is better than none, and I have a very packed schedule today, so I am just happy I got some done
+Worked on importing data from the two word-list files to name-generator. Also wrote a first draft for a recursive word-picking function (ensuring that the two l-words will not be the same)
+However, I haven't tested it yet, so it might need a lot of reworking. I sense that my thinking about recursive functions have been so influenced by C++ and that I am confusing myself a bit in python, 
+because I can't fully conceptualize the passing of data on the fly. I might wanna find a source to brush up on recursion in Python. 
+Reflection: I wish there was a way to say "God Arbejdslyst" in English - good luck just doesn't feel like it cuts it. This is niot luck, these are people working hard to achieve a goal!
