@@ -1,0 +1,6 @@
+1) What would be the best solution to the problem: I have a list of X entries, and I only need all the entries that satisfies a certain condition (e.g. starts with a certain letter, is greater than 10, etc.)
+Should I iterate through all entries and take all the elements that satisfy my requirements, and append them to a new list? Should I iterate through the list and pop all elements that does not satisfy my requirements? Something else?
+#$$$INTHEWILD1$$$# in lineaba/LLCgenerator/prepare_data
+
+
+
