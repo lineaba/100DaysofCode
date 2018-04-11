@@ -13,7 +13,12 @@ and one that really encompases my goals of learning more about NLP. I invision t
 SO yeah, that's the plan! 
 
 DAY 2 - Tuesday april 10th
-check in: Gonna do the last little bit of work on my temporary data for the LLC namegenerator, and then tweek my first draft of the name generator
+Check in: Gonna do the last little bit of work on my temporary data for the LLC namegenerator, and then tweek my first draft of the name generator
 to produce the different word patterns I decided on yesterday. 
-IDEA: Se if there is any data from sentiment analysis about the "funnyness" of words, which might be an interesting property to consider in generating names. 
-
+IDEA: Se if there is any data from sentiment analysis about the "funnyness" of words, which might be an interesting property to consider in generating names.
+Check-out: Ending up spending more time than I first imagined on the data preparation file, that I didn't get to work on the actual name generator.
+Created a github repo for the project (lineaba/LLCgenerator), and uploaded the prepare_data code to it, together with the L-words and C-words file. 
+Also decided to starts a questions file in this repo, with more general python questions that arise during coding, but that I wouldn't necessarily wanna have to research to answer straight away
+I include an example of where the question arose for me in actual code, and mark it with the #$$$[texthere]$$$# in code, so I can refer back to it later.
+Reflection: I was giving myself a 30-min timeframe today, and was planning to do some work in preparation for my bachelors tonight, and I was debating whether I should do one or the other(the other being coding) tonight
+Ended up deciding to start with 30 mins. of code, and even set a timer, but when first I got started it was very hard to stop again when the timer rang. I will have to keep this in mine when planning my day (and find a balance, cause I am sure the same thing could've happended the other way around,where I got really into bachelor's research and didn't get around to coding before it became to late.
