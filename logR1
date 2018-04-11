@@ -1,0 +1,19 @@
+This is the log for my #100daysofcode challenge started on Monday April 9th
+
+DAY 1 - Monday april 9th
+Went to a python meetup and worked on preparing data for the project I got the idea for that morning. I am creating a LLC name generator
+simply its a program that comes up with word combinations of three words, two first words starting with L, and third word starting with C. 
+The results are supposed to be bandnames. Even though it is a very simple and silly idea, I believe it will be a very good learning project, 
+and one that really encompases my goals of learning more about NLP. I invision the program can help me while I study:
+- Data processing / data preparation (Words for generator - tagged for part-of-speech)
+- Web development (+deployment)
+- Front-end development (which I have very little experience with beyond my love (read: HATE) relationship with TKinter
+- Database (I wan't to make people able to judge each generated name, and store that information)
+- Supervised Machine Learning (I wan't to train a name-producing machine on the data I will hopefully be storing in a database to eventually be able to generator THE BEST NAME OF ALL TIMES)
+SO yeah, that's the plan! 
+
+DAY 2 - Tuesday april 10th
+check in: Gonna do the last little bit of work on my temporary data for the LLC namegenerator, and then tweek my first draft of the name generator
+to produce the different word patterns I decided on yesterday. 
+IDEA: Se if there is any data from sentiment analysis about the "funnyness" of words, which might be an interesting property to consider in generating names. 
+
