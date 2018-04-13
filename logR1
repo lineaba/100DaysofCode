@@ -32,7 +32,7 @@ However, I haven't tested it yet, so it might need a lot of reworking. I sense t
 because I can't fully conceptualize the passing of data on the fly. I might wanna find a source to brush up on recursion in Python. 
 Reflection: I wish there was a way to say "God Arbejdslyst" in English - good luck just doesn't feel like it cuts it. This is niot luck, these are people working hard to achieve a goal!
 
-###DAY 4 - Thursday april 12th###
+DAY 4 - Thursday april 12th
 Check-in: Unfortunately, I'll have to chop my 30 mins into chunks today. I am planning on adding the word-order patterns to the LLC name generator, and produce output randomly that fits one of the 3 current patterns. 
 Check-out: Was able to actually carve out a full 30 mins later in the day, after having done a shorter burst of work earlier in the afternoon. Definately getting more done when I have full 30 min period, so I will try and do what I can to ensure that.
 Worked on making the LLC generator able to generate names following 3 word-order-patterns, which is now working, and the names are quite great, honestly. 
