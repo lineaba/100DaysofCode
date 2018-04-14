@@ -39,3 +39,7 @@ Worked on making the LLC generator able to generate names following 3 word-order
 While working, I realized that the wordlists didn't contain any adjectives, turns out adjectives are not tagged with "a" in  the dataset, but with "j". Get to know your data-set better, I guess. So had to make small changes to the dataprep program. 
 Still need to work on some things, but I have made some progress, which is nice. 
 Reflection: Procrastinating on something else is a solid way to force more time onto coding, but probably not the best idea in the long run
+
+DAY 5 - Friday april 13th
+Check-in: I am exhausted, have had such a fun day at six flags, but now I am ready to put in my 30 mins, working on writing a better function to shape the progressive form of verbs from my dictionary. 
+I actually took a little TYVSTART in the bus, finding some rules to use for the algorhitm, and then starting to write some code. 
