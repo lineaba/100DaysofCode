@@ -50,4 +50,7 @@ I completely forgot to code saturday. Sunday will be day 6, extending my 100 day
 
 DAY 6 - Sunday april 15th 
 Check-in: I have joined an accountability group with other codenewbies Scooter, nabheet, clifton and Marshall. Today I am coding for 1 hour, to get my self strong back into the game. I am continuing to work on the progressive form creation in the LLC generator. 
-longtime losing candidate
+Check-out: I ended up spending waaaay more time than alloted, but it weas great, had fun. Spend some time on researching how to best handle the progressive form of verbs. I ended up going by the three step heuristics, using the CMU pronounciation dictionary to look up pronounciation patterns when needed. 
+However, decided that the best solution would be to create a dictionary file with l-verbs and their progressive form using the heuristics (I have written a program that does this), rather than create the progressive form of the verb on the fly. This is due to the fact that it takes rather ling to look up the stress patterns since the CMU dictionary is large. There are not that many cases where this look-up is needed, but it sucks to have those cases being SO much slower than the other cases. 
+Anyways, there is probably room for improvement here. Also, I need to describe all the code I have currently, before I forget the reasoning behind all my choices. I know I should be doing this while coding, but it is a very hard habbit to get into. 
+Reflection: Favorite result of running the LLC generator today: longtime losing candidate
