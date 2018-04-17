@@ -58,3 +58,5 @@ Reflection: Favorite result of running the LLC generator today: longtime losing 
 DAY 7 - Monday april 16th
 Check-in: I have been sneaking in blocks of time on FreeCodeCamp today, it is SO adictive! Whoever decided to make each challenge such a small bite, hit the exact same nerve as a good netflix series ("Just one more!")
 I was planning to go to the python meetup today, but needed to fix some real-life stuff, so instead I am putting in my 30 mins tonight, working on the progress-keeper in TKinter. Wanna add a document as a simple database for saving the day-count, and wanna add a window that opens if it is the first time you run the program, where you can add your name, and a color, etc. to personalice the window. The information given at first use, will also be stored in the document database 
+Check-out: This is it for the night - I have made some more plans for the actual layout and progress of the app. Had to get back into TKinter. Have made the initial window, which asks whether user is new or existing.
+Reflection: I hope I can keep being as eager about putting in time for coding, as I am currently. 
