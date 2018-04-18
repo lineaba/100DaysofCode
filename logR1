@@ -68,7 +68,7 @@ Reflection: I am defenitely not doing this project the best way, or even the rig
 
 DAY 9 - Wednesday April 18th
 Check-in: Carving out extra time to work today. Will be spending 30 mins playing around with some layout for my FreeCodeCamp legacy page. Then an hour working on the progress-o-meter. Wanna finish the set-up part, i.e. creating a .txt file(or grabbing the file if already excisting), with the users information. I might also try and look into the trace function for IntVar, and how I can use that in the project. 
-
-
+Check-out: Lot of good work today. Did not work on the FreeCodeCamp, because the page have been down, and I was more excited about working on the progress-o-meter. I am done with the set-up part. It works for both new and returning users. I have a bunch more ideas of additions and imporvements I can do to it, but before I start working on that, I definetely wanna clean up and comment the existing code, so that will be the task for the near future. 
+Reflection: I am considering to open-source the idea, and see if I can find some other contributers on Twitter. I think it would be a nice way to better learn how to work on git and github.
 
 
