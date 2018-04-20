@@ -73,4 +73,5 @@ Reflection: I am considering to open-source the idea, and see if I can find some
 
 DAY 10 - Thursday April 19th
 Check-in: Putting in a quick 30 mins session today, before going to a comedy show. Gonna work on a few smaller fixes on the progres-o-meter, such as disabiling the button when 100 is reached. 
+Check-out: Input-button is disabled when max. number of days is reached. Started to research standards for documenting code. 
 
