@@ -1,5 +1,6 @@
 This is the log for my #100daysofcode challenge started on Monday April 9th
 
+## Week 1 ##
 DAY 1 - Monday april 9th
 Went to a python meetup and worked on preparing data for the project I got the idea for that morning. I am creating a LLC name generator
 simply its a program that comes up with word combinations of three words, two first words starting with L, and third word starting with C. 
