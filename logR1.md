@@ -1,4 +1,4 @@
-# This is the log for my #100daysofcode challenge started on Monday April 9th #
+__This is the log for my #100daysofcode challenge started on Monday April 9th__
 
 ## Week 1 ##
 ### DAY 1 - Monday april 9th ###
@@ -95,7 +95,10 @@ I have tried to write the issues clearly, and give some suggestions for how to s
 
 ### DAY 13 - Sunday April 22th ###
 BELATED LOG
+
 I spent some time on the prog-o-meter communicating with new contributors, and had the happy experience of merging the first couple of commits - Exciting stuff. To get some actual lines of code in, I did a challenge from exercism.io, counting occurences of words in a string. Had a little struggle with the ' which I needed to remove, when it was around words, like 'apple', but not when it was inside words, like don't. Didn't have enough time to solve that, but handled all the other cases pertaining to special signs, and I will return to solve this problem at some point. 
+
+## Week 3 ##
 
 ### DAY 14 - Monday April 23th ###
 Check-in: Have been keeping up with the contributors on the prog-o-meter today. A couple new merges, and a lot of good suggestions in the issues. I have a merge conflict to solve tonight, and hope to be able to work on a flow-issue in the code myself tonight, but it depends on how much time I have to spend on the merge issue. 
