@@ -46,7 +46,7 @@ Check-in: I am exhausted, have had such a fun day at six flags, but now I am rea
 I actually took a little headstart in the bus, finding some rules to use for the algorhitm, and then starting to write some code. 
 (later) check-out: Almost fell asleep while I was coding, but I did manage to write a few lines of code, dealing with some of the progressive rules. Definetely not my most focused work, but I am satisfied that I pushed thorugh and did some, despite how tired I was.
 
-### Saturday april 14th ###
+__Saturday april 14th__
 I completely forgot to code saturday. Sunday will be day 6, extending my 100 days by one day
 
 ### DAY 6 - Sunday april 15th ###
@@ -79,8 +79,7 @@ Check-in: Putting in a quick 30 mins session today, before going to a comedy sho
 Check-out: Input-button is disabled when max. number of days is reached. Started to research standards for documenting code. 
 Reflection: Note to self. Document as you go. Having to write docstrings for entire program in one sitting one of these days. Would've been more ideal to write for each, as they were added
 
-### DAY 11 - Friday April 20th ###
-### DAY 12 - Saturday April 21th ###
+### DAY 11+12 - Friday April 20th, Saturday April 21th ###
 COPY OF TWEET FROM THESE DAYS: 
 #100DaysofCode day 11+12 entangled. I started working yesterday at noon, and it is now 4.30 am. I have gotten so much work done, and now I am just excited to see who will be joining me! https://lineaba.github.io/prog-o-meter/  @moferg0 @cliftonC76 @ScooterPhoenix @nabheet @nayonna1
 
@@ -98,5 +97,5 @@ I have tried to write the issues clearly, and give some suggestions for how to s
 BELATED LOG
 I spent some time on the prog-o-meter communicating with new contributors, and had the happy experience of merging the first couple of commits - Exciting stuff. To get some actual lines of code in, I did a challenge from exercism.io, counting occurences of words in a string. Had a little struggle with the ' which I needed to remove, when it was around words, like 'apple', but not when it was inside words, like don't. Didn't have enough time to solve that, but handled all the other cases pertaining to special signs, and I will return to solve this problem at some point. 
 
-### DAY 14 - Sunday April 23th ###
+### DAY 14 - Monday April 23th ###
 Check-in: Have been keeping up with the contributors on the prog-o-meter today. A couple new merges, and a lot of good suggestions in the issues. I have a merge conflict to solve tonight, and hope to be able to work on a flow-issue in the code myself tonight, but it depends on how much time I have to spend on the merge issue. 
