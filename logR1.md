@@ -116,3 +116,6 @@ Super busy day today. Did some maintaining work for prog-o-meter, but didn't act
 ### DAY 16 - Thursday April 25th ###
 Check-out: Plenty of maintaining work for the prog-o-meter today. Finally solved the radio-button issue. I had been to focused on making a fix that fit into my current version, instead of taking a step back, and looking at the actual intention for how the buttons should be used. Instead of having one of them being selected as default, I just needed to remove the submit button, and instead make the close_window function belong to the radiobuttons themselves. That way the user can't move in the flow, without choosing new/returning. I still need to fix the problem that they might click the red cross to close window, and then they shouldn't be taken further in the flow. That will be for tomorrow - I think I have a pretty good idea of what to do. 
 Reflection: I haven't been so good at updating my log these last couple of days. I wanna be consistent with it. I do think it helps focus my attention on my goals, long- and shortterm.
+
+### DAY 17 - Friday April 16th ###
+Check-in: Trying my hands at creating a webapp with flask today. Hoping to use it for the LLC generator.
