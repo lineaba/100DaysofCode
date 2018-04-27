@@ -104,3 +104,15 @@ I spent some time on the prog-o-meter communicating with new contributors, and h
 Check-in: Have been keeping up with the contributors on the prog-o-meter today. A couple new merges, and a lot of good suggestions in the issues. I have a merge conflict to solve tonight, and hope to be able to work on a flow-issue in the code myself tonight, but it depends on how much time I have to spend on the merge issue. 
 Check-out: Did not get much actual coding done. Reviewed commits to prog-o-meter project, solved the merge conflict. Luckily it was a simple conflict, could solve it in the github browser, did not need to deal with the commandline and vim!
 Reflection: I am impressed with how fast we are getting lots of things done on the prog-o-meter. I just wanna make sure I still keep coding for it myself too. Tomorrow I will start out the morning coding. Solving the little issue about the code in line 130 (unused variable in for-loop), and the flow (preselecting one of the radio-buttons, keep the window popping-up when the user haven't added a valid name, shutting down the entire program, if user closes one of windows with the x in the corner). I might not have time to solve all these issues, but this is the order that I am progressing in. 
+
+### DAY 15 - Tuesday April 24th ###
+BELATED LOG
+
+Spend 45 mins. in the morning researching and testing out some solutions to the radiobutton problem for the prog-o-meter start window. Didn't find a solution, but learned about IntVar. More maintaining work for prog-o-meter
+
+__Wednesday April 25th__
+Super busy day today. Did some maintaining work for prog-o-meter, but didn't actually have time to write any code myself, so I will not be counting this day. 
+
+### DAY 16 - Thursday April 25th ###
+Check-out: Plenty of maintaining work for the prog-o-meter today. Finally solved the radio-button issue. I had been to focused on making a fix that fit into my current version, instead of taking a step back, and looking at the actual intention for how the buttons should be used. Instead of having one of them being selected as default, I just needed to remove the submit button, and instead make the close_window function belong to the radiobuttons themselves. That way the user can't move in the flow, without choosing new/returning. I still need to fix the problem that they might click the red cross to close window, and then they shouldn't be taken further in the flow. That will be for tomorrow - I think I have a pretty good idea of what to do. 
+Reflection: I haven't been so good at updating my log these last couple of days. I wanna be consistent with it. I do think it helps focus my attention on my goals, long- and shortterm.
