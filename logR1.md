@@ -113,9 +113,14 @@ Spend 45 mins. in the morning researching and testing out some solutions to the 
 __Wednesday April 25th__
 Super busy day today. Did some maintaining work for prog-o-meter, but didn't actually have time to write any code myself, so I will not be counting this day. 
 
-### DAY 16 - Thursday April 25th ###
+### DAY 16 - Thursday April 26th ###
 Check-out: Plenty of maintaining work for the prog-o-meter today. Finally solved the radio-button issue. I had been to focused on making a fix that fit into my current version, instead of taking a step back, and looking at the actual intention for how the buttons should be used. Instead of having one of them being selected as default, I just needed to remove the submit button, and instead make the close_window function belong to the radiobuttons themselves. That way the user can't move in the flow, without choosing new/returning. I still need to fix the problem that they might click the red cross to close window, and then they shouldn't be taken further in the flow. That will be for tomorrow - I think I have a pretty good idea of what to do. 
 Reflection: I haven't been so good at updating my log these last couple of days. I wanna be consistent with it. I do think it helps focus my attention on my goals, long- and shortterm.
 
-### DAY 17 - Friday April 16th ###
+### DAY 17 - Friday April 27th ###
 Check-in: Trying my hands at creating a webapp with flask today. Hoping to use it for the LLC generator.
+Check-out: Started working through [this](https://www.tutorialspoint.com/flask/index.htm) flask tutorial. It had a good balance between explaining things, and having me building things. As always with tutorials, it got frustrating when I ran into cases where my machine didn't behave like the tutorial said it would. I gave up at one of those points, but before that I had solved a couple other difficulties while working thorugh, so all in all I am pleased.
+Reflection: I had such a frustrating experience with the tutorial, which all of a sudden switched vocabulary, or introduced vocabulary it hadn't used before. It just expected me to know what they meant by server, without having used the word in the tutorial at all. The action I was supposed to perform, I had being doing multiple times, so it makes sense they expected me to be abnle to do it. But note to self: A good tutorial does not introduce new terms for previous tasks, without giving a proper introuction to the term.
+
+### DAY 18 - Saturday April 28th ###
+Check-in: I'll keep working thorugh the flask tutorial today. Gotta see if I can get past the annoying part where I can't get the results I am supposed to. 
