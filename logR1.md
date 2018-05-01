@@ -129,6 +129,7 @@ Check-in: I'll keep working thorugh the flask tutorial today. Gotta see if I can
 __Sunday April 29th__
 Kayaking and midterm studying today.
 
+## Week 4 ##
 ### DAY 19 - Monday April 30th ###
 Check-out: It was very hard to find time today, but I managed to work on HTML for a tribute side today. 
 Reflection: It is amazing to me that even when I have such a busy day as today, I wanna code. Code doesn't feel like a chore, it is still something fun that I am looking forward to everyday.
