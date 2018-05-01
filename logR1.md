@@ -123,4 +123,12 @@ Check-out: Started working through [this](https://www.tutorialspoint.com/flask/i
 Reflection: I had such a frustrating experience with the tutorial, which all of a sudden switched vocabulary, or introduced vocabulary it hadn't used before. It just expected me to know what they meant by server, without having used the word in the tutorial at all. The action I was supposed to perform, I had being doing multiple times, so it makes sense they expected me to be abnle to do it. But note to self: A good tutorial does not introduce new terms for previous tasks, without giving a proper introuction to the term.
 
 ### DAY 18 - Saturday April 28th ###
-Check-in: I'll keep working thorugh the flask tutorial today. Gotta see if I can get past the annoying part where I can't get the results I am supposed to. 
+Check-in: I'll keep working thorugh the flask tutorial today. Gotta see if I can get past the annoying part where I can't get the results I am supposed to.
+(forgot checkout) 
+
+__Sunday April 29th__
+Kayaking and midterm studying today.
+
+### DAY 19 - Monday April 30th ###
+Check-out: It was very hard to find time today, but I managed to work on HTML for a tribute side today. 
+Reflection: It is amazing to me that even when I have such a busy day as today, I wanna code. Code doesn't feel like a chore, it is still something fun that I am looking forward to everyday.
