@@ -133,3 +133,10 @@ Kayaking and midterm studying today.
 ### DAY 19 - Monday April 30th ###
 Check-out: It was very hard to find time today, but I managed to work on HTML for a tribute side today. 
 Reflection: It is amazing to me that even when I have such a busy day as today, I wanna code. Code doesn't feel like a chore, it is still something fun that I am looking forward to everyday.
+
+__Tuesday, Wednesday 1+2__
+Studying for midterms
+
+### DAY 20 - Thursday May 3rd ###
+Check-out: Tried to keep working through the flask tutorial, but did not feel like anything was sticking. The tutorial does not do a very good job of explaining why it does the different things that it does. It was a good way to get started, but I think I need to find another resource to actually start learning and understanding, so I can create my own projects soon. Switched to working through some basic JavaScript on freecodecamp. I was surprised at how similar it is to C++
+Reflection: I have "broken one of the basic rules", and skipped two days in a row. It doesn't matter though, I needed to skip to stay sane during a very highstress midterm period. I could've reset my count now, because I broke the rules, but I think that would be meaningless, since my two day hiatus does not mean that my knowledge has been reset. The one thing to notice, is that I was considering skipping today also, even though I did hae some time on my hand. I need to keep myself on my toes to get back into the game as quick as possible, when the stressperiod is over. ALSO TODAY MARKS 1/5 WUHUU!
