@@ -45,4 +45,4 @@ _I have paraphrased and categorized the questions. Some questions could've proba
 #### Outside category ####
 - "When do you think singularity will happen?"
 
-Written by @lineaba - Feel free to share a link to this list https://github.com/lineaba/100DaysofCode/blob/y/techconfquestions.md
+Written by @lineaba - Feel free to share a link to this list or send me a PR if you have questions you think should be added.
