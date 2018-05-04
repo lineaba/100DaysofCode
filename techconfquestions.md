@@ -38,7 +38,7 @@ _I have paraphrased and categorized the questions. Some questions could've proba
 - "How did you start coding?"
 
 #### Work related ####
-- "How do you like your current job/company"
+- "How do you like your current job/company?"
 - "Tell me about your data?"
 - "What do you work on?"
 
