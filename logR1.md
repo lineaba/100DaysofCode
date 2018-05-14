@@ -81,7 +81,7 @@ Reflection: Note to self. Document as you go. Having to write docstrings for ent
 
 ### DAY 11+12 - Friday April 20th, Saturday April 21th ###
 COPY OF TWEET FROM THESE DAYS: 
-#100DaysofCode day 11+12 entangled. I started working yesterday at noon, and it is now 4.30 am. I have gotten so much work done, and now I am just excited to see who will be joining me! https://lineaba.github.io/prog-o-meter/  @moferg0 @cliftonC76 @ScooterPhoenix @nabheet @nayonna1
+#100DaysofCode day 11+12 entangled. I started working yesterday at noon, and it is now 4.30 am. I have gotten so much work done, and now I am just excited to see who will be joining me! https://lineaba.github.io/prog-o-meter/ 
 
 1. Calling all #CodeNewbie and #100DaysOfCode doers looking to join an #OpenSource project. Now is the time to join Prog-o-meter. This is an #OpenSourceNewbie project, that I have started, to make it AS EASY AS POSSIBLE to get started contributing.
 2. The Prog-o-meter project is about writing code together, learning together, failing together and having fun together. I have spent my entire day setting up a barebones repo on github, based on a project I had been working on in #Python and #Tkinter for a couple of days on my own.
@@ -134,9 +134,31 @@ Kayaking and midterm studying today.
 Check-out: It was very hard to find time today, but I managed to work on HTML for a tribute side today. 
 Reflection: It is amazing to me that even when I have such a busy day as today, I wanna code. Code doesn't feel like a chore, it is still something fun that I am looking forward to everyday.
 
-__Tuesday, Wednesday 1+2__
+__Tuesday, Wednesday May 1st, 2nd__
 Studying for midterms
 
 ### DAY 20 - Thursday May 3rd ###
 Check-out: Tried to keep working through the flask tutorial, but did not feel like anything was sticking. The tutorial does not do a very good job of explaining why it does the different things that it does. It was a good way to get started, but I think I need to find another resource to actually start learning and understanding, so I can create my own projects soon. Switched to working through some basic JavaScript on freecodecamp. I was surprised at how similar it is to C++
 Reflection: I have "broken one of the basic rules", and skipped two days in a row. It doesn't matter though, I needed to skip to stay sane during a very highstress midterm period. I could've reset my count now, because I broke the rules, but I think that would be meaningless, since my two day hiatus does not mean that my knowledge has been reset. The one thing to notice, is that I was considering skipping today also, even though I did hae some time on my hand. I need to keep myself on my toes to get back into the game as quick as possible, when the stressperiod is over. ALSO TODAY MARKS 1/5 WUHUU!
+
+###DAY 21 - Friday May 4th ###
+From twitter: #100daysofcode Day 21 Tried my hands on some #RaspberryPi magic today, which was so much fun. And learned that rasPberry is spelled with a p?!?? Learn something new everyday!!! #Codeland
+
+###DAY 22 - Saturday May 5th ###
+From twitter: #100DaysofCode D22 Tired, chill 30 min session working through some @FreeCodeCamp JavaScript material. I have discussed #100DaysofCode with others at #Codeland, and I strongly believe in shaping the challenge in a way that fits you - tonight that meant tutorials for me.
+
+###May 6th - May 9th ###
+Needed to take a break these days. Finishing up midterms, exploring New York and recharging myself
+
+###Day 23 - Thursday May 10th ###
+From twitter: #100DaysOfCode D23 playing around with some animated CSS on codepen. Also finally catching up with all the awesome PR's to prog-o-meter. Feels gooooood to be back after too long of a break!
+
+###Day 24 - Friday May 11th ###
+From twitter: #100DaysofCode D24 Played some more with my CSS animation. Have not been able to solve how to offset the start time of each element to not have them move synchronously, but maybe with some more tinkering negative delay could be useful. 
+
+###Day 25 - Saturday May 12th ###
+From twitter: #100DaysOfCode D25 More fun/frustrations with CSS animations today. On one hand, I am stoked about how much I can do without really having learned HTML/CSS/Javascript proper. On the other hand feeling like maybe I should take a step back and go to the basics.
+
+###Day 26th - Sunday May 13th ###
+Check-out: A lot of progress on my animation today. I started out this animation by forking and remixing existing code, and then starting making changes to it. It was awesome because it got me far very fast, but it was also challenging because I couldn't get it to do what I wanted to, partly because I didn't fully understand all parts of the code. I was looking around codepen today for other similar projects to inspire me, and found a pen that had much simpler code, and actually functioned more like I wanted it to, even though it was with images rather than text. I've been "starting over today", forking that pen, and adjusting it to fit my project. I now have most of the animation functionality I want, so now I need to start figuring out how to pass randomized data from the back-end to the front-end. All in all very productive day. 
+Reflection: It is always a good idea to look around and see who is doing something similar to what I want for inspiration, and potentially reuse, if open source. 
