@@ -155,16 +155,16 @@ Needed to take a break these days. Finishing up midterms, exploring New York and
 
 ## Week 5 ##
 
-### Day 23 - Thursday May 10th ###
+### DAY 23 - Thursday May 10th ###
 From twitter: #100DaysOfCode D23 playing around with some animated CSS on codepen. Also finally catching up with all the awesome PR's to prog-o-meter. Feels gooooood to be back after too long of a break!
 
-### Day 24 - Friday May 11th ###
+### DAY 24 - Friday May 11th ###
 From twitter: #100DaysofCode D24 Played some more with my CSS animation. Have not been able to solve how to offset the start time of each element to not have them move synchronously, but maybe with some more tinkering negative delay could be useful. 
 
-### Day 25 - Saturday May 12th ###
+### DAY 25 - Saturday May 12th ###
 From twitter: #100DaysOfCode D25 More fun/frustrations with CSS animations today. On one hand, I am stoked about how much I can do without really having learned HTML/CSS/Javascript proper. On the other hand feeling like maybe I should take a step back and go to the basics.
 
-### Day 26th - Sunday May 13th ###
+### DAY 26th - Sunday May 13th ###
 Check-out: A lot of progress on my animation today. I started out this animation by forking and remixing existing code, and then starting making changes to it. It was awesome because it got me far very fast, but it was also challenging because I couldn't get it to do what I wanted to, partly because I didn't fully understand all parts of the code. I was looking around codepen today for other similar projects to inspire me, and found a pen that had much simpler code, and actually functioned more like I wanted it to, even though it was with images rather than text. I've been "starting over today", forking that pen, and adjusting it to fit my project. I now have most of the animation functionality I want, so now I need to start figuring out how to pass randomized data from the back-end to the front-end. All in all very productive day. 
 Reflection: It is always a good idea to look around and see who is doing something similar to what I want for inspiration, and potentially reuse, if open source. 
 
