@@ -184,5 +184,5 @@ Worked more on the psychopy experiment. Also did chapter 3 of the flask tutorial
 __Friday, June 1st__
 Started working on the chap. 4 in the flask tutorial, after coming back from eating way to much food at the first Friday food market. I was too tired though, and litterally fell asleep after having done a bit, while I was reading instructions.
 
-### DAY 31 - Saturday June 2nd ###
+### DAY 30 - Saturday June 2nd ###
 Working on the flask mega tutorial today, chap. 4 Database. I also started using github for my BA-thesis, which is a funny thing to try out.  
