@@ -168,4 +168,21 @@ From twitter: #100DaysOfCode D25 More fun/frustrations with CSS animations today
 Check-out: A lot of progress on my animation today. I started out this animation by forking and remixing existing code, and then starting making changes to it. It was awesome because it got me far very fast, but it was also challenging because I couldn't get it to do what I wanted to, partly because I didn't fully understand all parts of the code. I was looking around codepen today for other similar projects to inspire me, and found a pen that had much simpler code, and actually functioned more like I wanted it to, even though it was with images rather than text. I've been "starting over today", forking that pen, and adjusting it to fit my project. I now have most of the animation functionality I want, so now I need to start figuring out how to pass randomized data from the back-end to the front-end. All in all very productive day. 
 Reflection: It is always a good idea to look around and see who is doing something similar to what I want for inspiration, and potentially reuse (if open source).
 
-## Week 6 ##
+__May 14th - May 20th__
+This period have been on/off coding, mainly maintaining the prog-o-meter and being busy with school. 
+
+### DAY 27 - Monday May 21st ###
+Later: Coded at the meet-up, working on the html, css and java on codepen for my LLC name-generator.
+
+### DAY 28 - Wednesday May 30th ###
+Later: Started working on [the flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), chapt 1 hello world, and 2 Templates
+Also started working on the psychopy experiment for my BA-thesis
+
+### DAY 29 - Thursday May 31st ###
+Worked more on the psychopy experiment. Also did chapter 3 of the flask tutorial, web forms
+
+__Friday, June 1st__
+Started working on the chap. 4 in the flask tutorial, after coming back from eating way to much food at the first Friday food market. I was too tired though, and litterally fell asleep after having done a bit, while I was reading instructions.
+
+### DAY 31 - Saturday June 2nd ###
+Working on the flask mega tutorial today, chap. 4 Database. I also started using github for my BA-thesis, which is a funny thing to try out.  
