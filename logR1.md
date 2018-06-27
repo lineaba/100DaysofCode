@@ -186,3 +186,14 @@ Started working on the chap. 4 in the flask tutorial, after coming back from eat
 
 ### DAY 30 - Saturday June 2nd ###
 Working on the flask mega tutorial today, chap. 4 Database. I also started using github for my BA-thesis, which is a funny thing to try out.  
+
+_DAYS MISSING HERE_
+
+### DAY 51 - June 26th ###
+Learning about SQLite, and especially trying to figure out what the best approach is to updating the database. Should one update everytime a change has been made, or after a chunk of changes (units of work), or at the termination of the program.
+I still need to look a bit more into examples, but I think for the prog-o-meter it would actually make sense to only update the database at the end of the program. That way, all that is required is two calls to the database: One at the opening of the program to retrieve all information about the user (if they exists, or creating a new user if not), and one of the end of the program, to update the user with any possible new information. Of course we risk loosing some data IF the program should crash on us, but on the other hand, it means minimal interaction with the database, which I think would be beneficial to new contributors, who might not be familiar with databases. We could maybe do an intermediate write to database too, if the user changes their settings, since that seems like something we wouldn't wanna loose, but updating the database just because the user increments their progress by one day, may be unneccessary.
+The examples I have seen so far only has ONE method for writing to the database, i.e. updating the entire row, which also makes it seem to me that it would make sense not to update just as a users increments by one more day, unless it would be with a specific function that only updates one column in one row.
+More research, and hopefully I can also find someone who I can run these thoughts by and see what they think.
+I also wanna look more into security and injections. I saw an example of using placeholders, I would like to learn more about why that is safer.
+I found good examples in [this repo](https://github.com/kingsawyer/python_sqlite_talk/blob/master/stock_db.py) and [this video](https://www.youtube.com/watch?v=D7wSMnapDp4)
+
