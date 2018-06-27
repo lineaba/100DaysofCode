@@ -187,13 +187,87 @@ Started working on the chap. 4 in the flask tutorial, after coming back from eat
 ### DAY 30 - Saturday June 2nd ###
 Working on the flask mega tutorial today, chap. 4 Database. I also started using github for my BA-thesis, which is a funny thing to try out.  
 
-_DAYS MISSING HERE_
+_I stopped logging here, but I have filled in the days with info from twitter (and cursive information is retrospective thoughts/comments_
 
-### DAY 51 - June 26th ###
+### DAY 31 - Sunday June 3rd ###
+Made my first code contribution to prog-o-meter since I open-source'd it - reorganized the layout of social media buttons. Managing the project is a lot of work, but it is so cool seeing it grow and develop. 
+
+### DAY 32 - Monday June 4th ###
+No code written today, but still learned a lot. Great conversations at the weekly Python meetup about class inheritance and how we can apply it to the prog-o-meter to create more consistency in our GUI. For me thinking and talking code counts too!
+
+### DAY 33 - Tuesday June 5th ###
+Revisiting chapt. 1 of flask mega tutorial taking notes as reference material for my future self. Think I understand using decorators for URL-route callbacks relations now, after writing it down. 
+
+### DAY 34 - Wednesday June 6th ###
+More notes from the flask tutorial. Inheritance between templates, and passing dynamic contents to templates makes so much more sense now! The notes will be super useful as reference later.
+
+### DAY 35 - Thursday June 7th ###
+Playing with the FitBit SDK in preparation for my first hackaton coming up. FitBit apps are developed in JavaScript which I don't have much experience with, but pleasantly surprised by readability of JS.
+Starting with existing code, I modified it to show the time in both my current timezone, and the timezone of my hometown, which would make it easier to plan calls with my family. #Fitbit SDK was easy to get started with, I think other #CodeNewbies might enjoy it too.
+You don't need to have a #Fitbit, there is a simulator, which let's you test your code on your own computer. Here's a link https://dev.fitbit.com/  to get started if someone's curious.
+
+### DAY 36 - Friday June 8th ###
+minimally productive, just worked through a half chapter of the flask mega tutorial! Many exciting things coming up, so good with a chill day.
+_It was around this time that I found out I had been accepted to talk at the Open Source summit!!!_
+
+### DAY 37 - Saturday June 9th ###
+flask mega tutorial, topic: login/logout/sign-up. 
+
+### DAY 38 - Sunday June 10th ###
+Sucks to have to end on this - I have no more time tonight, but I don't like to leave work in a buggy state. (It is the registration part of a microblogging web app from flask mega tutorial)
+_Tweet included a screen shot of an internal server error message_
+
+### DAY 39 - Monday June 11th ###
+Fixed the bug from last night. a syntax issue that visual studio code didn't pick up, and me forgetting an argument. Went back to chapter 3 of the flask mega tutorial to take some notes on web forms.
+
+### DAY 40 - Tuesday June 12th ###
+Another #fitbit clockface. It's finals season, and I need to be reminded of time passing - because procrastination is dangerous! Built a clock that shows time, but also counts down to bedtime, to show me how much time I have left in the day.
+
+### DAY 41 - Wednesday June 13th ###
+More hackaton prep. Getting familiar with #fitbit companion app. So far able to get time input (in a suboptimal format) from the user through the phone app. Next up: use the input in the clock face.
+
+_Finals on Thursday June 14th_
+
+### DAY 42 - Friday June 15th ###
+First day of Angelhacks, not too much code written, but definition of concept and set up of repo, accounts, etc! Building a fitbit app with an awesome team :)
+
+### DAY 43 - Saturday June 16th ###
+Hackaton was a great experience, I am tired but happy.
+
+_No code on Sunday June 17th_
+
+### DAY 44 - Monday June 18th ###
+back to the flask tutorial, did some more rereading and note-taking of prior chapters. Looked at WTForms docs to better understand the different  fields types.
+
+### DAY 45 - Tuesday June 19th ###
+Was gonna do more Flask, but got curious about the POST and GET keywords, so I looked into HTTP. Read a @b0rk zine earlier tonight, and was inspired to do some drawing while I learned. King-client and the server servants helped me learn!  
+Had a lot of fun drawing and making little stories about what I learned. Would like to look into the rest of the HTTP methods, had to stop because it is getting late.  
+Also, would recommend other #CodeNewbies to check out the zine I read earlier tonight, "So you want to be a wizard" by Julia Evans (@b0rk). It has a lot of good stuff about how to learn and ask questions.
+
+### DAY 46 - Wednesday June 20th ###
+More HTTP study. Considering writing a blogpost about post and get, but writing a technical blogpost is just so much more daunting than "sharing my experience" posts. Also reviewed prog-o-meter PR's and learned about NLP with #NLPNewbie
+
+_No code Thursdat June 21st_
+
+### DAY 47 - Friday June 22nd ###
+No code, but loads of learning. Went to my first @WSC_LA meetup tonight about open source, it was really great! Have been writing feedback on a very extensive PR to the prog-o-meter project, and learning about #sqlite along the way. Now, HTTP bed-time reading
+
+### DAY 48 - Saturday June 23rd ###
+More playing with sentiment analysis, inspired by Wednesday's #NLPNewbie chat. Also, HUGE success: git staged, committed, pushed, fetched and merged on the cmd line with only one command lookup tonight.
+
+### DAY 49 - Sunday June 24th ###
+Finished notes on flask tutorial chapt. 3 (Webforms). Took me into the documentation of Flask and Flask-WTF and source code of Flask-WTF. Would be faster to just follow the instructions in the tutorial, but I learn best if I understand what I do. 
+
+### DAY 50 - Monday June 25th ###
+Halfway mark, wuhuu! It's taken me 78 days to get here, but what a great time it's been. Grateful for my accountability partners @cliftonC76 @nayonna1 @moferg0 @ScooterPhoenix @nabheet Went to Python meetup tonight, started familiarizing myself with SQLite
+
+_Back to logging day-by-day_
+
+### DAY 51 - Tuesday June 26th ###
 Learning about SQLite, and especially trying to figure out what the best approach is to updating the database. Should one update everytime a change has been made, or after a chunk of changes (units of work), or at the termination of the program.
 I still need to look a bit more into examples, but I think for the prog-o-meter it would actually make sense to only update the database at the end of the program. That way, all that is required is two calls to the database: One at the opening of the program to retrieve all information about the user (if they exists, or creating a new user if not), and one of the end of the program, to update the user with any possible new information. Of course we risk loosing some data IF the program should crash on us, but on the other hand, it means minimal interaction with the database, which I think would be beneficial to new contributors, who might not be familiar with databases. We could maybe do an intermediate write to database too, if the user changes their settings, since that seems like something we wouldn't wanna loose, but updating the database just because the user increments their progress by one day, may be unneccessary.
 The examples I have seen so far only has ONE method for writing to the database, i.e. updating the entire row, which also makes it seem to me that it would make sense not to update just as a users increments by one more day, unless it would be with a specific function that only updates one column in one row.
 More research, and hopefully I can also find someone who I can run these thoughts by and see what they think.
-I also wanna look more into security and injections. I saw an example of using placeholders, I would like to learn more about why that is safer.
+I also wanna look more into security and injections. I saw an example of using placeholders, I would like to learn more about why that is safer.  
 I found good examples in [this repo](https://github.com/kingsawyer/python_sqlite_talk/blob/master/stock_db.py) and [this video](https://www.youtube.com/watch?v=D7wSMnapDp4)
 
