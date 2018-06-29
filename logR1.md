@@ -271,3 +271,7 @@ More research, and hopefully I can also find someone who I can run these thought
 I also wanna look more into security and injections. I saw an example of using placeholders, I would like to learn more about why that is safer.  
 I found good examples in [this repo](https://github.com/kingsawyer/python_sqlite_talk/blob/master/stock_db.py) and [this video](https://www.youtube.com/watch?v=D7wSMnapDp4)
 
+_skipped Wednesday June 27th participated in the NLPNewbie and CodeNewbie twitterchats and then had a pizza-beach-picnic_
+
+### Day 52 - Thursday June 28th ###
+Continued on the flask tutorial, working on user-profiles today. Learned about a cool service called gravatar. Seems like they handle storage of avatar photos, that can be used across platforms (that way I don't need to store all user's photos). They can also generate patterns for user's that does not have a photo uploaded. Currious if we can set up the app for the user to upload their photo, without having to take them over to gravatar and make their changes there for it to be applied to the microblog app. 
