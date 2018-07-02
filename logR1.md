@@ -56,13 +56,13 @@ However, decided that the best solution would be to create a dictionary file wit
 Anyways, there is probably room for improvement here. Also, I need to describe all the code I have currently, before I forget the reasoning behind all my choices. I know I should be doing this while coding, but it is a very hard habbit to get into. 
 Reflection: Favorite result of running the LLC generator today: longtime losing candidate
 
+## Week 2 ##
+
 ### DAY 7 - Monday april 16th ###
 Check-in: I have been sneaking in blocks of time on FreeCodeCamp today, it is SO adictive! Whoever decided to make each challenge such a small bite, hit the exact same nerve as a good netflix series ("Just one more!")
 I was planning to go to the python meetup today, but needed to fix some real-life stuff, so instead I am putting in my 30 mins tonight, working on the progress-keeper in TKinter. Wanna add a document as a simple database for saving the day-count, and wanna add a window that opens if it is the first time you run the program, where you can add your name, and a color, etc. to personalice the window. The information given at first use, will also be stored in the document database 
 Check-out: This is it for the night - I have made some more plans for the actual layout and progress of the app. Had to get back into TKinter. Have made the initial window, which asks whether user is new or existing.
 Reflection: I hope I can keep being as eager about putting in time for coding, as I am currently. 
-
-## Week 2 ##
 
 ### DAY 8  - Tuesday April 17th ###
 Check-in: Finished the jQuery part of FreeCodeCamp today, and getting ready for my first project - building a TributePage. Just gotta decide on whom. However, tonight is about progress-o-meter, I'm gonna continue working on the starting up part.
@@ -149,11 +149,11 @@ From twitter: #100daysofcode Day 21 Tried my hands on some #RaspberryPi magic to
 ### DAY 22 - Saturday May 5th ###
 From twitter: #100DaysofCode D22 Tired, chill 30 min session working through some @FreeCodeCamp JavaScript material. I have discussed #100DaysofCode with others at #Codeland, and I strongly believe in shaping the challenge in a way that fits you - tonight that meant tutorials for me.
 
+## Week 5 ##
+
 __May 6th - May 9th__
 
 Needed to take a break these days. Finishing up midterms, exploring New York and recharging myself
-
-## Week 5 ##
 
 ### DAY 23 - Thursday May 10th ###
 From twitter: #100DaysOfCode D23 playing around with some animated CSS on codepen. Also finally catching up with all the awesome PR's to prog-o-meter. Feels gooooood to be back after too long of a break!
@@ -168,12 +168,17 @@ From twitter: #100DaysOfCode D25 More fun/frustrations with CSS animations today
 Check-out: A lot of progress on my animation today. I started out this animation by forking and remixing existing code, and then starting making changes to it. It was awesome because it got me far very fast, but it was also challenging because I couldn't get it to do what I wanted to, partly because I didn't fully understand all parts of the code. I was looking around codepen today for other similar projects to inspire me, and found a pen that had much simpler code, and actually functioned more like I wanted it to, even though it was with images rather than text. I've been "starting over today", forking that pen, and adjusting it to fit my project. I now have most of the animation functionality I want, so now I need to start figuring out how to pass randomized data from the back-end to the front-end. All in all very productive day. 
 Reflection: It is always a good idea to look around and see who is doing something similar to what I want for inspiration, and potentially reuse (if open source).
 
+## Week 6 ##
 __May 14th - May 20th__
 This period have been on/off coding, mainly maintaining the prog-o-meter and being busy with school. 
 
+## Week 7 ##
 ### DAY 27 - Monday May 21st ###
 Later: Coded at the meet-up, working on the html, css and java on codepen for my LLC name-generator.
 
+_May 22nd - Tuesday May 29th break_
+
+## Week 8 ##
 ### DAY 28 - Wednesday May 30th ###
 Later: Started working on [the flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), chapt 1 hello world, and 2 Templates
 Also started working on the psychopy experiment for my BA-thesis
@@ -191,6 +196,8 @@ _I stopped logging here, but I have filled in the days with info from twitter (a
 
 ### DAY 31 - Sunday June 3rd ###
 Made my first code contribution to prog-o-meter since I open-source'd it - reorganized the layout of social media buttons. Managing the project is a lot of work, but it is so cool seeing it grow and develop. 
+
+## Week 9 ##
 
 ### DAY 32 - Monday June 4th ###
 No code written today, but still learned a lot. Great conversations at the weekly Python meetup about class inheritance and how we can apply it to the prog-o-meter to create more consistency in our GUI. For me thinking and talking code counts too!
@@ -217,6 +224,8 @@ flask mega tutorial, topic: login/logout/sign-up.
 Sucks to have to end on this - I have no more time tonight, but I don't like to leave work in a buggy state. (It is the registration part of a microblogging web app from flask mega tutorial)
 _Tweet included a screen shot of an internal server error message_
 
+## Week 10 ##
+
 ### DAY 39 - Monday June 11th ###
 Fixed the bug from last night. a syntax issue that visual studio code didn't pick up, and me forgetting an argument. Went back to chapter 3 of the flask mega tutorial to take some notes on web forms.
 
@@ -236,6 +245,8 @@ Hackaton was a great experience, I am tired but happy.
 
 _No code on Sunday June 17th_
 
+## Week 11 ##
+
 ### DAY 44 - Monday June 18th ###
 back to the flask tutorial, did some more rereading and note-taking of prior chapters. Looked at WTForms docs to better understand the different  fields types.
 
@@ -247,7 +258,7 @@ Also, would recommend other #CodeNewbies to check out the zine I read earlier to
 ### DAY 46 - Wednesday June 20th ###
 More HTTP study. Considering writing a blogpost about post and get, but writing a technical blogpost is just so much more daunting than "sharing my experience" posts. Also reviewed prog-o-meter PR's and learned about NLP with #NLPNewbie
 
-_No code Thursdat June 21st_
+_No code Thursday June 21st_
 
 ### DAY 47 - Friday June 22nd ###
 No code, but loads of learning. Went to my first @WSC_LA meetup tonight about open source, it was really great! Have been writing feedback on a very extensive PR to the prog-o-meter project, and learning about #sqlite along the way. Now, HTTP bed-time reading
@@ -257,6 +268,8 @@ More playing with sentiment analysis, inspired by Wednesday's #NLPNewbie chat. A
 
 ### DAY 49 - Sunday June 24th ###
 Finished notes on flask tutorial chapt. 3 (Webforms). Took me into the documentation of Flask and Flask-WTF and source code of Flask-WTF. Would be faster to just follow the instructions in the tutorial, but I learn best if I understand what I do. 
+
+## Week 12 ##
 
 ### DAY 50 - Monday June 25th ###
 Halfway mark, wuhuu! It's taken me 78 days to get here, but what a great time it's been. Grateful for my accountability partners @cliftonC76 @nayonna1 @moferg0 @ScooterPhoenix @nabheet Went to Python meetup tonight, started familiarizing myself with SQLite
@@ -291,3 +304,5 @@ Oh, and the actual #100daysofcode D53 update: Worked on the flask tutorial. User
 I have decided that the focus of this week is the flask tutorial and the prog-o-meter project. However, I do also wanna finish the studying of HTTP and writing my blogpost. I think I will try and see if I can get a longer stretch of time one of these days to dive into that, but for the remainder of the time it will be flask and prog-o-meter
 Today I finished another chapter in the flask tutorial, about debugging and errorhandling. I did not find the bug that Miguel had hidden in the app, but I did find another issue, namely that there's no character limit to the usernames, i.e. someone can make their username be 'hest' repeated a bunch of times, (I ended up with 400 characters), and it accepts it as a name. Not only is just silly, but it may also provide challenges to display stuff nicely on the front end. I think I will try my hands at implementing a limit. 
 I could not get the email server up an running, but everything else worked out nicely. I would like to look a bit more into what environment variables actually is. 
+
+## Week 13 ##
