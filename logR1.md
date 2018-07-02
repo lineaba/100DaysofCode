@@ -275,3 +275,19 @@ _skipped Wednesday June 27th participated in the NLPNewbie and CodeNewbie twitte
 
 ### Day 52 - Thursday June 28th ###
 Continued on the flask tutorial, working on user-profiles today. Learned about a cool service called gravatar. Seems like they handle storage of avatar photos, that can be used across platforms (that way I don't need to store all user's photos). They can also generate patterns for user's that does not have a photo uploaded. Currious if we can set up the app for the user to upload their photo, without having to take them over to gravatar and make their changes there for it to be applied to the microblog app. 
+
+_skipped Friday June 29th_
+
+### Day 53 - Saturday June 30th ###
+_belated log, copied from twitter_
+I feel like I am hitting a bit of a rough patch in my progress right now, and I wanted to share some honest thoughts, in case someone out there is in the same boat. I think for me, it is a combination of three things at this moment. 
+Issue 1) I do not have as much time for coding right now as I would like since I am writing my bachelor's thesis (and doing data collection, and designing an experiment). This is a challenging as some days it feels like I can't get meaningful work done, which is demotivating.
+Issue 2) I struggle with prioritizing learning in depth over hacking things together. I am working on learning flask right now, and while I think I have covered enough to just jump into it, and start building the web app I have in mind. I do think I will benefit from sticking with studying right now. I think that I will be able to get a fuller picture, that will help me not only build right now, but also planning for future changes/additions much better.
+Issue 3) SO MANY SHINY THINGS! There are so many things I wanna do, and being super excited about something (e.g. NLP right now) makes it much more motivating to sit down and work hard, but I don't wanna jump from project to project without finishing what I started. That said, sometimes a project/topic just needs to be abandoned for a while or for good, but my particular problem right here is not that the current project is bad, it is just that so many other things are calling out for attention too.)
+Ok, the end! Thanks for letting me reflect a little publicly. The good part is, that I know that this will pass. I know that there will be easier times, more hours, stronger focus ahead. But it is a little rough in codeland right now, and that is OK!
+Oh, and the actual #100daysofcode D53 update: Worked on the flask tutorial. User profiles and database migration. 
+
+### DAY 54 - Sunday June 1st ###
+I have decided that the focus of this week is the flask tutorial and the prog-o-meter project. However, I do also wanna finish the studying of HTTP and writing my blogpost. I think I will try and see if I can get a longer stretch of time one of these days to dive into that, but for the remainder of the time it will be flask and prog-o-meter
+Today I finished another chapter in the flask tutorial, about debugging and errorhandling. I did not find the bug that Miguel had hidden in the app, but I did find another issue, namely that there's no character limit to the usernames, i.e. someone can make their username be 'hest' repeated a bunch of times, (I ended up with 400 characters), and it accepts it as a name. Not only is just silly, but it may also provide challenges to display stuff nicely on the front end. I think I will try my hands at implementing a limit. 
+I could not get the email server up an running, but everything else worked out nicely. I would like to look a bit more into what environment variables actually is. 
