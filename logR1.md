@@ -306,3 +306,9 @@ Today I finished another chapter in the flask tutorial, about debugging and erro
 I could not get the email server up an running, but everything else worked out nicely. I would like to look a bit more into what environment variables actually is. 
 
 ## Week 13 ##
+### Day 55 - Monday June 2nd ###
+_updated later_
+Started working on a new chapter in the flask mega tutorial. It was on relational databases, to be able to create followers. Need to draw some of this stuff out for myself to fully conceptualize it. I get it in theory, but gotta check if I also got it in practicality. 
+
+### Day 56 - Tuesday June 3rd ### 
+Finished the chapter from yesterday (to be honest I fell asleep in my chair halfway thorugh last night). Wrote my first unittests which was cool, would like to add that to the prog-o-meter in a near future. It doesn't seem very hard, when using pythons library for it. 
