@@ -300,15 +300,34 @@ Issue 3) SO MANY SHINY THINGS! There are so many things I wanna do, and being su
 Ok, the end! Thanks for letting me reflect a little publicly. The good part is, that I know that this will pass. I know that there will be easier times, more hours, stronger focus ahead. But it is a little rough in codeland right now, and that is OK!
 Oh, and the actual #100daysofcode D53 update: Worked on the flask tutorial. User profiles and database migration. 
 
-### DAY 54 - Sunday June 1st ###
+### DAY 54 - Sunday July 1st ###
 I have decided that the focus of this week is the flask tutorial and the prog-o-meter project. However, I do also wanna finish the studying of HTTP and writing my blogpost. I think I will try and see if I can get a longer stretch of time one of these days to dive into that, but for the remainder of the time it will be flask and prog-o-meter
 Today I finished another chapter in the flask tutorial, about debugging and errorhandling. I did not find the bug that Miguel had hidden in the app, but I did find another issue, namely that there's no character limit to the usernames, i.e. someone can make their username be 'hest' repeated a bunch of times, (I ended up with 400 characters), and it accepts it as a name. Not only is just silly, but it may also provide challenges to display stuff nicely on the front end. I think I will try my hands at implementing a limit. 
 I could not get the email server up an running, but everything else worked out nicely. I would like to look a bit more into what environment variables actually is. 
 
 ## Week 13 ##
-### Day 55 - Monday June 2nd ###
+### Day 55 - Monday July 2nd ###
 _updated later_
 Started working on a new chapter in the flask mega tutorial. It was on relational databases, to be able to create followers. Need to draw some of this stuff out for myself to fully conceptualize it. I get it in theory, but gotta check if I also got it in practicality. 
 
-### Day 56 - Tuesday June 3rd ### 
-Finished the chapter from yesterday (to be honest I fell asleep in my chair halfway thorugh last night). Wrote my first unittests which was cool, would like to add that to the prog-o-meter in a near future. It doesn't seem very hard, when using pythons library for it. 
+### Day 56 - Tuesday July 3rd ### 
+Finished the chapter from yesterday (to be honest I fell asleep in my chair halfway thorugh last night). Wrote my first unittests which was cool, would like to add that to the prog-o-meter in a near future. It doesn't seem very hard, when using pythons library for it.
+
+### Day 57 - Wednesday July 4th ###
+_belated update_
+Worked more on the flask tutorial, pagination chapter
+
+_ Skipped thursday July 5th to work on my B.A. thesis_
+
+### Day 58 - Friday July 6th ###
+_belated update_
+Worked more on the flask tutorial. Finally was able to test email sending on a local server. Had not been able to get the server to work a couple of chapters ago, and also ha to skip over it Wednesday. But finally it worked. The tutorial really just skipped over that step.
+Was so excited due to that win, that I came back to the tutorial late that night, after I had finished writing the second draft for my B.A. Thesis!
+
+### Day 59 - Saturday July 7th ###
+Went back to python pandas, which I hadn't used since I took PIC16 during winter quarter. I wrote some code to clean a dataset with valence, arousal and dominance ratings for words in English. Removed a bunch of data which I will not be using, and splitting the data into five datasets, depending on their valence level
+
+### Day 60 - Sunday July 8th ###
+More work on the word data for the B.A. thesis. writing the new splitted datasets to file, and cleaning the code, so I won't be super confused coming back to it in the future
+
+## Week 14 ##
